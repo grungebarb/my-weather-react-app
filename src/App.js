@@ -11,7 +11,7 @@ export default function App() {
           <WeatherApp />
           <small>
             <a
-              href="https://github.com/grungebarb/grungebarb-weather-app"
+              href="https://github.com/grungebarb/my-weather-react-app"
               target="_blank"
               rel="noreferrer"
             >
